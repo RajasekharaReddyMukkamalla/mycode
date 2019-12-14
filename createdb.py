@@ -5,7 +5,7 @@ mydb = mysql.connector.connect(
   user="root",
   passwd="Raja@1234"
 ) 
-
+#this is raja
 
 mycursor = mydb.cursor()
 
